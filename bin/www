@@ -1,4 +1,3 @@
-
 #!/usr/bin/env node
 
  
@@ -10,7 +9,7 @@
  
 
 var app = require('../app');
-var debug = require('debug')('f23wa02kancharla:server0');
+var debug = require('debug')('f23wa02kancharla:server');
 var http = require('http');
 
  
